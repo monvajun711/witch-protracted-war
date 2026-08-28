@@ -1,0 +1,8 @@
+interface:
+  display_name: "魔女持久战"
+  short_description: "用持久战方法论诊断商业模式并制定创业行动与止损方案"
+  icon_small: "./assets/witch-protracted-war.png"
+  icon_large: "./assets/witch-protracted-war.png"
+  brand_color: "#6B3FA0"
+  default_prompt: "使用 $witch-protracted-war 分析我的商业模式，并给出阶段判断、关键战役和止损闸门。"
+
